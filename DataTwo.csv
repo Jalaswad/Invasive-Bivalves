@@ -1,0 +1,124 @@
+﻿Family,Genus,Species,Native Range,Invasive Range,Date,Vector,Niche Expansion,NEMESIS Invader,Notes,References
+Glycymerididae,Tucetilla,adenensis,Indo-West Pacific,Mediterranean,1966,Lessepsian,No,No,,Galil 2007
+Carditidae,Centrocardita,akabana,Indo-West Pacific,Mediterranean,2005,Shipping,Yes,No,,Ceviker and Albayrak 2006
+Mytilidae,Semimytilus,algosus,Southern Eastern Pacific (Ecuador to Chile),Atlantic coast of Africa,1931,Shipping,Yes,No,,Bigatti 2014
+Corbulidae,Potamocorbula,amurensis,Western Pacific,Eastern Pacific,1986,Shipping,No,Yes,,"Carlton et al 1990, http://www.psp.wa.gov/downloads/ANS/MISM_Online.pdf"
+Laternulidae,Laternula gracilis,anatina,Indo-West Pacific,Mediterranean,1905,Lessepsian,No,Yes,referred to as just Laternula gracilis in NEMESIS,"Galil 2006, 2007"
+Ostreidae,Crassostrea,angulata,Western Pacific,Eastern Atlantic,1550,Shipping,Yes,No,,Huvet et al 2000
+Lucinidae,Divalinga,arabica,Indo-West Pacific,Mediterranean,1966,Lessepsian,Yes,No,,"Barash & Danin 1977, Galil 2007"
+Hiatellidae,Hiatella,arctica,"Western Atlantic, Eastern Atlantic, Mediterranean",Hawaii,1920,Shipping,,No,,Carlton & Eldredge 2009
+Myidae,Mya,arenaria,Western Atlantic; Eastern Atlantic; Western Pacific,Mediterranean; Eastern Pacific,1500,Multiple,Yes,Yes,,"Strasser 1991, Streftaris and Zenetos 2006"
+Mytilidae,Leiosolenus (Myoforceps),aristatus,Western Atlantic,Southern Western Atlantic,2004,Shipping,No,No,,Simone & Goncalves 2006
+Chamidae,Chama,asperella,Indo-West Pacific,Mediterranean,2002,Multiple,No,No,,"Ovalis and Zenetos 2007, Galil 2007"
+Mytilidae,Modiolus,auriculatus,Indo-West Pacific,Mediterranean,1935,Lessepsian,No,No,,Galil 2007
+Cardiidae,Fulvia,australis,Indo-West Pacific,Mediterranean,1948,Lessepsian,No,No,,Galil 2007
+Neilonellidae,Neilo,australis,New Zealand,Tasmania,1965,Aquaculture Byproduct,No,No,,"Greenhill 1965, Australia Coastal Estuarine & Marine Report"
+Ungulinidae,Diplodonta,bogii,Indo-West Pacific,Mediterranean,1982,Lessepsian,Yes,No,,Galil 2007
+Chamidae,Chama,chinensis (includes C. brassica Reeve 1847),Indo-West Pacific,Mediterranean,2003,Shipping,No,No,,Galil 2007
+Arcidae,Scapharca,broughtonii,Indo-West Pacific,Mediterranean,2002,Shipping,No,No,,"Ceviker and Albayrak 2002, Cinar et al 2005"
+Mytilidae,Mytella,charruana,S. Western Atlantic,N. Western Atlantic,1986,Shipping,No,No,,Spinuzzi et al 2013
+Ostreidae,Ostrea,chilensis,South America; New Zealand,Eastern Atlantic; Tasmania,1960,Aquaculture,Yes,No,,Morgan and Richardson 2012
+Anomiidae,Anomia,chinensis,Indo-West Pacific,Eastern Pacific,1924,Aquaculture Byproduct,No,No,,Carlton 1994
+Veneridae,Constellipitar,chordatum,Indo-West Pacific,Eastern Mediterranean,2014,Lessepsian,No,No,,Van Aarsten et al 2015
+Veneridae,Gouldiopa (Microcirce),consternans,Indo-West Pacific,Eastern Mediterranean,2011,Lessepsian,Yes,No,,Van Aarsten et al 2015
+Chamidae,Pseudochama,corbierei,Indo-West Pacific,Mediterranean,1946,Lessepsian,No,No,,Zenetos et al 2005
+Myidae,Sphenia,coreanica,Western Pacific,Hawaii,1996,Shipping,No,No,,Coles et al 1999
+Ostreidae,Dendostrea,crenulifera,Indo-West Pacific,Mediterranean,2005,Lessepsian,No,No,,"Mienis 2005, Galil 2007"
+Ostreidae,Lopha,cristagalli,Indo-West Pacific,Hawaii,1971,Shipping,No,No,,Gregory 2009
+Ostreidae,Saccostrea,cucullata,Indo-West Pacific,Mediterranean; Western Atlantic,1999,Shipping,No,No,,"CIESM, Cinar et al 2011"
+Pharidae,Ensiculus,cultellus,Indo-West Pacific,Eastern Mediterranean,2008,Lessepsian,No,No,,Bogi & Galil 2009
+Mactridae,Rangia,cuneata,Western Atlantic,Eastern Atlantic,1956,Shipping,Yes,No,,"Hopkins and Andrews 1970, Sousa et al 2009"
+Gastrochaenidae,Gastrochaena,cymbium,Indo-West Pacific,Mediterranean,1954,Lessepsian,No,No,,Galil 2007
+Veneridae,Venerupis (Ruditapes),decussata,Mediterranean,Gulf of Suez,1927,Anti-Lessepsian,Yes,No,,Parisi et al 2012
+Mytilidae,Geukensia,demissa,N. Western Atlantic,Eastern Pacific; S. Western Atlantic,1850,Multiple,Yes,Yes,,"Torchin et al 2005, Sousa et al 2009"
+Pharidae,Ensis,directus (=E. leei Huber 2015),Western Atlantic,Eastern Atlantic,1978,Shipping,Yes,No,,"Arias and Anadon 2012, http://www.europeaaliens.org/speciesTheWorst.do"
+Veneridae,Timoclea,djiboutiensis,Indo-West Pacific,Mediterranean,1997,Lessepsian,No,No,,Galil 2007
+Mytilidae,Mytilus,edulis,Arctic; Mediterranean; Western Atlantic; Eastern Atlantic; Western Pacific,Eastern Pacific,1980,Multiple,No,No,,Alexandrov and Berlinsky 2005
+Ostreidae,Ostrea,edulis,Eastern Atlantic; Mediterranean,Eastern Pacific; Western Atlantic,1949,Aquaculture,Yes,No,,"Carlton 1992, Vercaemer et al 2006, http://massbay.mit.edu/resources/pdf/casestudies.pdf"
+Isognomonidae,Isognomon,ephippium,Indo-West Pacific,Eastern Mediterranean,2004,Shipping,No,No,,Mienis 2004
+Donacidae,Dosinia,erythraea,Indo-West Pacific,Mediterranean,1905,Lessepsian,Yes,No,,Tzomos et al 2012
+Veneridae,Petricola,fabagella,Indo-West Pacific,Mediterranean,1900,Lessepsian,No,No,,"Ceviker & Albayrak 2006, Crocetta et al 2013"
+Veneridae,Lioconcha,fastigiata,Indo-West Pacific,Hawaii,1985,Shipping,,No,,Carlton & Eldredge 2009
+Chamidae,Chama,asperella (includes C. fibula Reeve 1847),Indo-West Pacific,Hawaii,1920,Shipping,No,No,,"Coles et al 1999, Ray 2005"
+Tellinidae,Tellina,flacca,Indo-West Pacific,Mediterranean,1997,Lessepsian,No,No,,Galil 2007
+Veneridae,Callista,florida,Indo-West Pacific,Mediterranean,1945,Multiple,No,No,,"Mienis 2005, Tzomos et al 2012"
+Ostreidae,Dendostrea,folium,Indo-West Pacific,Mediterranean,2010,Lessepsian,No,No,,Crocetta et al 2013
+Mytilidae,Septifer,forskali,Indo-West Pacific,Mediterranean,1999,Lessepsian,Yes,No,,Nawrot et al 2015
+Cardiidae,Fulvia,fragilis,Indo-West Pacific; Eastern Atlantic,Mediterranean,1939,Multiple,No,No,,"Goud & Mifsud 2009, Crocetta et al. 2008"
+Mytilidae,Mytilus,galloprovincialis,Western Atlantic; Mediterranean,Eastern Pacific; Indo-West Pacific,1940,Multiple,Yes,Yes,,https://www.cbd.int/invasive/doc/marine-menaceiucn-en.pdf
+Veneridae,Gemma,gemma,Western Atlantic,Eastern Pacific,1893,Aquaculture Byproduct,Yes,Yes,,"Zhang et al 2014, Sousa et al 2009"
+Corbulidae,Varicorbula,gibba,Eastern Atlantic; Mediterranean,Australia,1987,Shipping,No,No,,Bogi & Galil 2007
+Ostreidae,Crassostrea,gigas,Western Pacific,Mediterranean; N. Eastern Pacific; S. Eastern Pacific; S. Western Atlantic; South Africa; Australia,1964,Aquaculture,Yes,Yes,referred to as its newer name Magallana gigas in NEMESIS,"Leffler & Greer 1991, Streftaris and Zenetos 2006"
+Cardiidae,Cerastoderma,glaucum,Mediterranean,Red Sea,1905,Anti-Lessepsian,Yes,No,,"Barash & Danin 1987, Por 2012"
+Ostreidae,Saccostrea,glomerata,Indo-West Pacific,Pacific Islands; Hawaii,1984,Aquaculture,No,No,,Ruesink et al 2005
+Arcidae,Telligarca,granosa,Indo-West Pacific,Mediterranean,2006,Shipping,No,No,,Zenetos et al 2009
+Spondylidae,Spondylus,groschi,Indo-West Pacific,Mediterranean,1998,Multiple,No,No,,Galil 2007
+Chamidae,Chama,gryphoides,Eastern Atlantic; Mediterranean,Western Atlantic,1902,Anti-Lessepsian,Yes,No,,"Barash & Danin 1987, Por 2012"
+Tellinidae,Psammacoma,gubernaculum,Indo-West Pacific,Mediterranean,1992,Shipping,No,No,,Cinar et al 2001
+Mytilidae,Leiosolenus,hanleyanus,Indo-West Pacific,Eastern Mediterranean,2003,Shipping,Yes,No,,Galil 2007
+Gryphaeidae,Hyotissa,hyotis,Indo-West Pacific,Mediterranean; Western Atlantic,2003,Shipping,No,No,,Galil 2007
+Pteriidae,Pinctada,imbricata,Indo-West Pacific; Western Atlantic,Western Atlantic,2014,Shipping,No,No,,Marques & Braves 2014
+Pectinidae,Argopecten irradians,concentricus,Western Atlantic,N. Western Atlantic; Western Pacific,1991,Aquaculture,Yes,No,,"Fan et al 2015, Huber 2015"
+Arcidae,Scapharca,kagoshimensis,Indo-West Pacific,Mediterranean,1966,Shipping,Yes,No,,Lipej et al 2012
+Veneridae,Antigona,lamellaris,Indo-West Pacific,Mediterranean,1992,Lessepsian,No,No,,Nunes 2014
+Veneridae,Ruditapes,largillierti,New Zealand,Tasmania,1950,Aquaculture Byproduct,No,No,,Maguire 2005
+Chamidae,Chama,lazarus,Indo-West Pacific,Hawaii,1950,Shipping,No,No,,Carlton and Eldredge 2009
+Mytilidae,Lioberus,ligneus,Indo-West Pacific,Mediterranean,1999,Lessepsian,No,No,,Nunes 2014
+Mactridae,Mactra,lilacea,Indo-West Pacific,Mediterranean,1972,Lessepsian,No,No,,Galil 2007
+Mytilidae,Mytilaster,lineatus,Western Atlantic; Mediterranean,Mediterranean,1918,Shipping,No,No,,Karpinsky 2010
+Trapezidae,Trapezium,liratum,Western Pacific,Eastern Pacific,1935,Aquaculture Byproduct,Yes,Yes,"referred to by its current accespted name, as Neotrapezium liratum in NEMESIS",Wonham & Carlton 2005
+Pectinidae,Scaeochlamys,livida,Eastern Australia,Western Australia,1989,Shipping,No,No,,McDonald & Wells 2009
+Semelidae,Theora (Endopleura),lubrica,Western Pacific,Australia; NZ; Mediterranean; Eastern Pacific,1958,Shipping,Yes,Yes,Listed as its synonym Theora lubrica in California NEMESIS records,"Bogi & Galil 2007, McDonald & Wells 2009"
+Chamidae,Chama,macerophylla,Western Atlantic,Hawaii,1996,Shipping,No,No,,Godwin 2003
+Pteriidae,Pinctada,margaritifera,Indo-West Pacific,Mediterranean; Western Atlantic,1974,Aquaculture,No,No,,Galil 2007
+Laternulidae,Exolaternula,liataudi (incl. records of E. marilina Reeve 1860),Western Pacific,Eastern Pacific,1990,Shipping,No,No,,Miller et al 1999
+Veneridae,Mercenaria,mercenaria,Western Atlantic,Eastern Atlantic; Mediterranean; Eastern Pacific; Western Pacific,1925,Aquaculture,Yes,No,,"Grosholz and Ruiz 2003, Wonham & Carlton 2005, Grosholz et al 2015"
+Limopsidae,Limopsis (Oblimopa),multistriata,Indo-West Pacific,Mediterranean,1965,Lessepsian,No,No,,Galil 2007
+Arcidae,Scapharca,natalensis,Indian Ocean,Mediterranean,1935,Lessepsian,No,No,,Galil 2007
+Spondylidae,Spondylus,nicobaricus,Indo-West Pacific,Mediterranean,1988,Shipping,No,No,,"Mienis 2004, Galil 2007"
+Trapezidae,Trapezium,oblongum,Indo-West Pacific,Mediterranean,1980,Lessepsian,No,No,,Mienis 1980
+Psammobiidae,Nuttallia,obscurata,Western Pacific,Eastern Pacific,1991,Shipping,Yes,Yes,,"Chan 2013, http://www.psp.wa.gov/downloads/ANS/MISM_Online.pdf"
+Mactridae,Mactra,olorina,Indo-West Pacific,Mediterranean,1876,Lessepsian,No,No,,Por 1971
+Limidae,Limaria,orientalis,Indo-West Pacific,New Zealand,1972,Shipping,No,No,,Cranfield 1998
+Chamidae,Chama,pacifica,Indo-West Pacific,Mediterranean,1905,Lessepsian,Yes,No,,"Nawrot et al 2015, Tillier and Bavay 1905, Streftaris and Zenetos 2006"
+Veneridae,Clementia,papyracea,Indo-West Pacific,Mediterranean,1937,Lessepsian,No,No,,Galil 2007
+Pectinidae,Zygochlamys,patagonica,South America,Mediterranean,1985,Shipping,Yes,No,,Crocetta & Renda 2008
+Veneridae,Gafrarium,pectinatum,Indo-West Pacific,Mediterranean,1880,Lessepsian,No,No,,Por 1971
+Pteriidae,Pteria,penguin,Indo-West Pacific,Pacific Islands,1975,Aquaculture,No,No,,Teitelbaum and Fale 2008
+Mytilidae,Arcuatula (Musculista),perfragilis,Indo-West Pacific,Mediterranean,1960,Lessepsian,No,No,,Galil 2007
+Mytilidae,Perna,perna,Indo-West Pacific; Eastern Atlantic; Mediterranean; S. Western Atlantic,N. Western Atlantic,1990,Shipping,No,No,,"Holland 2001, Sousa et al 2009"
+Ostreidae,Planostrea,pestigris,Indo-West Pacific,Eastern Mediterranean,2003,Shipping,No,No,,Galil 2007
+Veneridae,Meretrix,petechialis,Western Pacific,N. Western Pacific?,1997,Aquaculture,Yes,No,,Yamakawa and Imai 2012
+Mytilidae,Brachidontes,pharaonis,Indo-West Pacific,Mediterranean,1876,Multiple,Yes,No,,"Galil 2007, Streftaris and Zenetos 2006"
+Veneridae,Ruditapes,philippinarum,Indo-West Pacific,Mediterranean; Eastern Atlantic; Eastern Pacific,1936,Aquaculture,Yes,Yes,,"Toupoint et al 2008, Streftaris and Zenetos 2006"
+Veneridae,Petricolaria,pholadiformis,Western Atlantic,Eastern Atlantic; Mediterranean; Eastern Pacific,1927,Shipping,Yes,Yes,,NOBANIS
+Arcidae,Acar (Barbatia),plicata,Indo-West Pacific,Mediterranean,1978,Lessepsian,No,No,,Galil 2007
+Plicatulidae,Plicatula,plicata,Indo-West Pacific,Mediterranean,2003,Shipping,No,No,,"Crocetta et al 2015, Mienis 2012"
+Mactridae,Raetella,pulchella,Indo-West Pacific,Australia,1991,Shipping,No,No,,Cohen et al 2001
+Pteriidae,Pinctada,radiata,Indo-West Pacific,Mediterranean,1874,Multiple,No,No,,"Galil 2007, Lodola et al 2013, Streftaris and Zenetos 2006"
+Malleidae,Malleus,regulus,Indo-West Pacific; Eastern Pacific,Mediterranean,1900,Lessepsian,No,No,,Por 1971
+Cardiidae,Afrocardium (Fragum),richardi,Indo-West Pacific,Mediterranean,1997,Lessepsian,No,No,,Galil 2007
+Veneridae,Timoclea,roemeriana,Indo-West Pacific,Mediterranean,1997,Lessepsian,Yes,No,,Galil 2007
+Psammobiidae,Soletellina,rosea,Indo-West Pacific,Mediterranean,1905,Lessepsian,No,No,,CIESM
+Myidae,Sphenia,rueppellii,Indo-West Pacific,Mediterranean,1978,Multiple,Yes,No,,Galil 2007
+Pectinidae,Mimachlamys,sanguinea,Indo-West Pacific,Mediterranean,2012,Lessepsian,No,No,,Shefer et al 2012
+Semelidae,Ervilia,scaliola,Indo-West Pacific,Mediterranean,2014,Shipping,No,No,,Zenetos & Ovalis 2014
+Veneridae,Circe,scripta,Indo-West Pacific,Mediterranean,2007,Shipping,No,No,,Zenetos et al 2008
+Mytilidae,Xenostrobus,securis,Australia,Mediterranean; Western Atlantic; Western Pacific,1992,Aquaculture,Yes,No,,Streftaris and Zenetos 2006
+Mytilidae,Arcuatula (Musculista),senhousia,Indo-West Pacific,Mediterranean; Eastern Pacific; Australia; Southern Indian Ocean,1960,Multiple,Yes,Yes,,"Galil 2007, Streftaris and Zenetos 2006"
+Spondylidae,Spondylus,spinosus,Indo-West Pacific,Mediterranean,1988,Multiple,No,No,,"Galil 2007, Streftaris and Zenetos 2006"
+Mesodesmatidae,Atactodea,striata,Indo-West Pacific,Mediterranean,1973,Lessepsian,No,No,,Galil 2007
+Pholadidae,Martesia,striata,Global,Hawaii; Mediterranean,1915,Shipping,,No,,Carlton & Eldredge 2009
+Pteriidae,Pinctada,sugillata,Indo-West Pacific,South Australia,1980,Shipping,No,No,,Rutherford & Miller 2011
+Veneridae,Redicirce,sulcata,Indo-West Pacific,Mediterranean,1970,Shipping,No,No,,Galil 2007
+Veneridae,Paratapes,textile,Indo-West Pacific,Mediterranean,1939,Lessepsian,No,No,,Galil 2007
+Arcidae,Scapharca,transversa,Western Atlantic,Mediterranean,1972,Shipping,Yes,No,,"Lipej et al 2012, Streftaris and Zenetos 2006"
+Arcidae,Barbatia,trapezina,Indo-West Pacific,Mediterranean,2004,Shipping,No,No,,Mienis 2004
+Tellinidae,Tellina,valtonis,Indo-West Pacific,Mediterranean,1970,Lessepsian,No,No,,"CIESM, Cinar et al 2011"
+Veneridae,Circenita,varia,Indo-West Pacific,Mediterranean,1972,Lessepsian,Yes,No,,Galil 2007
+Pteriidae,Electroma,vexillum,Indo-West Pacific,Mediterranean,2002,Multiple,No,No,,Nawrot et al 2015
+Pectinidae,Bractechlamys,vexillum,N. Australia,Mediterranean,2000,Shipping,No,No,,WGITMO 2006
+Ostreidae,Crassostrea,virginica,Western Atlantic,Eastern Pacific,1869,Aquaculture,No,No,,Sousa et al 2009
+Mytilidae,Perna,viridis,Indo-West Pacific,Western Atlantic; Pacific Islands; Mediterranean; Australia,1989,Multiple,No,No,,Spinuzzi et al 2013
+,,,,,,,,,,
+,,,,,,,,13,,
