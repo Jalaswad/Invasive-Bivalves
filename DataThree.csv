@@ -1,27 +1,20 @@
-﻿Taxonomic Group,Name,Year,Invasion Status,Population Status,NEMESIS-AREA,Vectors
-Mollusks-Bivalves,Arcuatula senhousia,1941,Non-native,Established,nep-v,"Ballast Water, Hull Fouling, Oyster Accidental"
-Mollusks-Bivalves,Gemma gemma,1893,Non-native,Established,nep-v,Oyster Accidental
-Mollusks-Bivalves,Geukensia demissa,1894,Non-native,Established,nep-v,Oyster Accidental
-Mollusks-Bivalves,Limecola petalum,1988,Non-native,Established,nep-v,"Ballast Water, Dry Ballast, Oyster Accidental"
-Mollusks-Bivalves,Lyrodus pedicellatus,1920,Non-native,Established,nep-v,Hull Fouling
-Mollusks-Bivalves,Mya arenaria,1874,Non-native,Established,nep-v,Oyster Accidental
-Mollusks-Bivalves,Mytilus galloprovincialis,1987,Non-native,Established,nep-v,"Ballast Water, Hull Fouling"
-Mollusks-Bivalves,Potamocorbula amurensis,1986,Non-native,Established,nep-v,Ballast Water
-Mollusks-Bivalves,Ruditapes philippinarum,1946,Non-native,Established,nep-v,Oyster Accidental
-Mollusks-Bivalves,Theora lubrica,1982,Non-native,Established,nep-v,Ballast Water
-Mollusks-Bivalves,Geukensia demissa,1955,Non-native,Established,nep-vi,"Ballast Water, Hull Fouling"
-Mollusks-Bivalves,Lyrodus pedicellatus,1871,Non-native,Established,nep-vi,Hull Fouling
-Mollusks-Bivalves,Magallana gigas,2000,Non-native,Established,nep-vi,"Ballast Water, Hull Fouling, Oyster Accidental, Oyster Intentional"
-Mollusks-Bivalves,Mytilus galloprovincialis,1987,Non-native,Established,nep-vi,"Ballast Water, Hull Fouling"
-Mollusks-Bivalves,Petricolaria pholadiformis,2021,Non-native,Established,nep-vi,None
-Mollusks-Bivalves,Ruditapes philippinarum,1998,Non-native,Established,nep-vi,"Ballast Water, Fisheries Accidental (not Oyster), Fisheries Intentional"
-Mollusks-Bivalves,Theora lubrica,1969,Non-native,Established,nep-vi,Ballast Water
-Mollusks-Bivalves,Gemma gemma,1992,Non-native,Established,nep-iv,Oyster Accidental
-Mollusks-Bivalves,Laternula gracilis,1995,Non-native,Established,nep-iv,"Ballast Water, Oyster Accidental"
-Mollusks-Bivalves,Magallana gigas,1928,Non-native,Established,nep-iv,Oyster Intentional
-Mollusks-Bivalves,Mya arenaria,1875,Non-native,Established,nep-iv,"Fisheries Intentional, Oyster Accidental"
-Mollusks-Bivalves,Mytilus galloprovincialis,1996,Non-native,Established,nep-iv,"Ballast Water, Fisheries Accidental (not Oyster), Hull Fouling"
-Mollusks-Bivalves,Neotrapezium liratum,1947,Non-native,Established,nep-iv,Oyster Accidental
-Mollusks-Bivalves,Nuttallia obscurata,2002,Non-native,Established,nep-iv,"Ballast Water, Natural Dispersal"
-Mollusks-Bivalves,Petricolaria pholadiformis,1943,Non-native,Established,nep-iv,Oyster Accidental
-Mollusks-Bivalves,Ruditapes philippinarum,1947,Non-native,Established,nep-iv,"Fisheries Intentional, Oyster Accidental"
+﻿Taxonomic Group,Name,Year,Invasion Status,Population Status,NEMESIS-AREA,Vectors,,
+Mollusks-Bivalves,Arcuatula senhousia,1941,Non-native,Established,nep-v,"Ballast Water, Hull Fouling, Oyster Accidental",,
+Mollusks-Bivalves,Corbicula fluminea,1961,Non-native,Established,None,,,
+Mollusks-Bivalves,Gemma gemma,1992,Non-native,Established,nep-iv,Oyster Accidental,,
+Mollusks-Bivalves,Geukensia demissa,1894,Non-native,Established,nep-v,Oyster Accidental,,
+Mollusks-Bivalves,Laternula gracilis,1995,Non-native,Established,nep-iv,"Ballast Water, Oyster Accidental",,
+Mollusks-Bivalves,Lyrodus pedicellatus,1871,Non-native,Established,nep-vi,Hull Fouling,,
+Mollusks-Bivalves,Magallana gigas,1928,Non-native,Established,nep-iv,Oyster Intentional,,
+Mollusks-Bivalves,Mya arenaria,1875,Non-native,Established,nep-iv,"Fisheries Intentional, Oyster Accidental",,
+Mollusks-Bivalves,Mytilus galloprovincialis,1987,Non-native,Established,nep-vi,"Ballast Water, Hull Fouling",,
+Mollusks-Bivalves,Neotrapezium liratum,1947,Non-native,Established,nep-iv,Oyster Accidental,,
+Mollusks-Bivalves,Nuttallia obscurata,2002,Non-native,Established,nep-iv,"Ballast Water, Natural Dispersal",,
+Mollusks-Bivalves,Petricolaria pholadiformis,1943,Non-native,Established,nep-iv,Oyster Accidental,,
+Mollusks-Bivalves,Potamocorbula amurensis,1986,Non-native,Established,nep-v,Ballast Water,,
+Mollusks-Bivalves,Ruditapes philippinarum,1947,Non-native,Established,nep-iv,"Fisheries Intentional, Oyster Accidental",,
+Mollusks-Bivalves,Teredo bartschi,2001,Non-native,Established,Hull Fouling,,,
+Mollusks-Bivalves,Theora lubrica,1969,Non-native,Established,Ballast Water,,,
+Mollusks-Bivalves,Crassostrea virginica,1895,Non-native,Established,Oyster Intentional,,,
+Mollusks-Bivalves,Limecola petalum,1996,Non-native,Established,None,,,
+Mollusks-Bivalves,Teredo navalis,1963,Non-native,Established,Hull Fouling,,,
